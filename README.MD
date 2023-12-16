@@ -26,7 +26,7 @@ The recommended way to install PHP QBITTORRENT API is through
 [Composer](https://getcomposer.org/).
 
 ```
-composer require fatkulnurk/php-qbittorrent-api
+composer require dongasai/php-qbittorrent-api
 ```
 
 ## Todo:
